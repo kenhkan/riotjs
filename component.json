@@ -11,6 +11,9 @@
   ],
   "dependencies": {
   },
-  "scripts": ["riot.js"],
+  "main": "riot.js",
+  "scripts": [
+    "riot.js"
+  ],
   "license": "MIT"
 }
